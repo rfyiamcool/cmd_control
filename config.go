@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/gonuts/yaml"
+	"gopkg.in/yaml.v2"
 )
 
 type ProcessConfig struct {
