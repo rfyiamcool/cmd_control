@@ -2,6 +2,10 @@
 
 a simple control process srv, support batch, auto restart, run order.
 
+## to do
+
+* add test
+
 ## Example
 
 example_1:
